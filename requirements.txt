@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.14.0
 pillow
 groq
 torch
