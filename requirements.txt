@@ -1,8 +1,7 @@
-streamlit==1.14.0
+streamlit
 pillow
 groq
 torch
 transformers
 TTS
 pydub
-altair==4.2.0
