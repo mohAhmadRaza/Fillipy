@@ -5,3 +5,4 @@ torch
 transformers
 TTS
 pydub
+altair==4.2.0
