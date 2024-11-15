@@ -1,0 +1,7 @@
+streamlit
+pillow
+groq
+torch
+transformers
+TTS
+pydub
